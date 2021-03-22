@@ -2251,6 +2251,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallStar
       objectReference: {fileID: 0}
+    - target: {fileID: 3945595325726320534, guid: 1299d43dae42b4e5481c015a2d972c3a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3945595325726320554, guid: 1299d43dae42b4e5481c015a2d972c3a,
         type: 3}
       propertyPath: m_RootOrder
