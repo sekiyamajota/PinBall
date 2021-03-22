@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//星の仕様
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
