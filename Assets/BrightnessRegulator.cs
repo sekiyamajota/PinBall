@@ -22,7 +22,6 @@ public class BrightnessRegulator : MonoBehaviour
     //初期設定
     void Start()
     {
-
         // タグによって光らせる色を変える
         if (tag == "SmallStarTag")
         {
