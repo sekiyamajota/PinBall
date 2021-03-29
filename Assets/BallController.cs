@@ -43,6 +43,7 @@ public class BallController : MonoBehaviour
         }
     }
 
+    //OnCollisionEnter! 追加
     private void OnCollisionEnter(Collision collision)
     {
         //collision.gameObject!
